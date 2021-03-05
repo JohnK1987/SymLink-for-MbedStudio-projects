@@ -8,3 +8,5 @@ This script can manage the MbedOs library for possibility make a new project Off
 * Run the vbscript and follow instructions in boxes.
 
 This is my first VBS script and certainly not faultless but for my personal use it looks functional.
+
+EDIR: Mbed Studio is already do this so this script is pointless and repository will be archived.
